@@ -62,13 +62,14 @@ From GST 2A/2B/8A reconciliation to Tally XML creation, this suite streamlines d
 <img width="581" height="640" alt="Cert2" src="https://github.com/user-attachments/assets/c8f068fb-f7e7-440e-a170-9ad756bd6cd1" />
 <img width="662" height="637" alt="Cert3" src="https://github.com/user-attachments/assets/ba0976b8-383b-4ffd-9570-91ed27c3415b" />
 
-1. Download the All release from the [Releases](https://github.com/TacticsPro/Office_Tools_Releases/releases) section.
-2. Download msix Office_Tools_X_X_X_X_x64_Debug.cer and install certificate on local->certificate store->Trusted Root Certification Authorities and able to install msix package
-3. or also you can Download the latest release from the [Releases](https://github.com/TacticsPro/Office_Tools_Latest_Version) section.
-4. Run the installer and follow on-screen instructions.
-5. Enable VBA in Excel Application
-6. Ensure Excel 2021 or 365 is installed and licensed.
-7. Launch the app via Start Menu or desktop shortcut.
+1. Download the All releases from the [Releases Lite](https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases) section.
+2. Download the All release from the [Releases Full](https://github.com/TacticsPro/Office_Tools_Releases/releases) section.
+3. Download msix Office_Tools_X_X_X_X_x64_Debug.cer and install certificate on local->certificate store->Trusted Root Certification Authorities and able to install msix package
+4. or also you can Download the latest release from the [Releases](https://github.com/TacticsPro/Office_Tools_Latest_Version) section.
+5. Run the installer and follow on-screen instructions.
+6. Enable VBA in Excel Application
+7. Ensure Excel 2021 or 365 is installed and licensed.
+8. Launch the app via Start Menu or desktop shortcut.
 
 ---
 
