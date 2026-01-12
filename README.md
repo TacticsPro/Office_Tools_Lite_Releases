@@ -1,7 +1,7 @@
 # Office_Tools_Lite_Releases
 This is our Official Office_Tools_Lite Application Release section and we will give regular updates and new features on this repo
 
-For Full version [Visit:](https://github.com/TacticsPro/Office_Tools_Releases)
+For Full version [Visit:](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases)
 
 1. Step By Step Guide: [Guide](https://tacticspro.github.io/Office_Tools_Latest_Version/) section.
 
@@ -98,7 +98,7 @@ To purchase a license or for bulk licensing inquiries, contact:
 
 For support, feedback, or demo requests, please contact:  
 📩 `gpenmail@gmail.com`  
-🔗 [Visit:](https://github.com/TacticsPro/Office_Tools_Releases)
+🔗 [Visit:](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases)
  © TacticsPro. All rights reserved
 ---
 
