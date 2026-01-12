@@ -63,7 +63,7 @@ From GST 2A/2B/8A reconciliation to Tally XML creation, this suite streamlines d
 <img width="662" height="637" alt="Cert3" src="https://github.com/user-attachments/assets/ba0976b8-383b-4ffd-9570-91ed27c3415b" />
 
 1. Download the All releases from the [Releases Lite](https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases) section.
-2. Download the All release from the [Releases Full](https://github.com/TacticsPro/Office_Tools_Releases/releases) section.
+2. Download the All release from the [Releases Full](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases) section.
 3. Download msix Office_Tools_X_X_X_X_x64_Debug.cer and install certificate on local->certificate store->Trusted Root Certification Authorities and able to install msix package
 4. or also you can Download the latest release from the [Releases](https://github.com/TacticsPro/Office_Tools_Latest_Version) section.
 5. Run the installer and follow on-screen instructions.
