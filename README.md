@@ -113,15 +113,14 @@ This is a **free Lite edition** developed by **TacticsPro**.
 
 👉 Upgrade to **Office Tools Ultimate** for full functionality.
 
+🔗 **Ultimate Version:**  
+https://github.com/TacticsPro/Office_Tools_Ultimate_Releases
 ---
 
 ## 📧 Contact
 
 For support, feedback, or upgrade inquiries:  
-📩 `gpenmail@gmail.com`  
-
-🔗 **Ultimate Version:**  
-https://github.com/TacticsPro/Office_Tools_Ultimate_Releases
+📩 `gpenmail@gmail.com`
 
 ---
 
