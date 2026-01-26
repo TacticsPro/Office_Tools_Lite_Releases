@@ -4,6 +4,11 @@
 This repository contains the **official release builds** of **Office Tools Lite**.  
 We provide **regular updates, bug fixes, and limited new features** for the Lite edition here.
 
+### 🛠️ Development & Credits
+- **Core Logic & Architecture:** TacticsPro  
+- **Application Design & Workflow:** TacticsPro  
+- **Code Assistance & Research:** ChatGPT (latest), Grok (latest), Bing AI (latest)  
+- **Error Correction & Bug Fixing:** TacticsPro with AI-assisted review  
 🔹 **Full Version (Ultimate):**  
 👉 [Office Tools Ultimate Releases](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases)
 
