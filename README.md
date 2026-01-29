@@ -4,6 +4,8 @@
 This repository contains the **official release builds** of **Office Tools Lite**.  
 We provide **regular updates, bug fixes, and limited new features** for the Lite edition here.
 
+[Profile](https://github.com/TacticsPro)
+
 ### 🛠️ Development & Credits
 - **Core Logic & Architecture:** TacticsPro  
 - **Application Design & Workflow:** TacticsPro  
