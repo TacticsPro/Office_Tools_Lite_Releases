@@ -1,11 +1,11 @@
 {
   "min_version": "8.0.0.0",
-  "lite_latest_version": "8.5.0.4",
-  "lite_release_notes": "Fixed GSTR-3B with Non GST outwards and added RCM outward (23-04-2026)",
+  "lite_latest_version": "8.5.1.0",
+  "lite_release_notes": "Fixed some bugs and improvement now one app instance allowed to run. Fixed date issue for XML converter (15-05-2026)",
 
-  "lite_msix_download_url": "https://raw.githubusercontent.com/TacticsPro/Office_Tools_Latest_Version/refs/heads/main/Office_Tools_Lite_MSIX.msix",
-  "lite_msix_sha256": "8d0adc652c2863b3fe2fc03435c3b17fd4c40feee5a699fb484973549e375026",
+  "lite_msix_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/download/Office_Tools_Lite_v_8.5.1.0/Office_Tools_Lite_8.5.1.0_x64.msix",
+  "lite_msix_sha256": "c77b076daba8a93c57744797441d4f23a4056513024d2724671b0d38e45fcc89",
 
-  "lite_msi_download_url": "https://raw.githubusercontent.com/TacticsPro/Office_Tools_Latest_Version/refs/heads/main/Office_Tools_Lite_MSI.msi",
-  "lite_msi_sha256": "08b4c4ba80914d7b39dc98c60fa7bbaac5bdfe8dafa4fd416df7e577e696a804"
+  "lite_msi_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/download/Office_Tools_Lite_v_8.5.1.0/Office_Tools_Lite_8.5.1.0_x64.msi",
+  "lite_msi_sha256": "656e9c539a89d7dfd755825c92217375148f8c0f3f803b55aa650b413fc66913"
 }
