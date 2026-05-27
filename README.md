@@ -127,7 +127,7 @@ https://github.com/TacticsPro/Office_Tools_Ultimate_Releases
 ## 📧 Contact
 
 For support, feedback, or upgrade inquiries:  
-📩 `gpenmail@gmail.com`
+📩 `tacticsprogit@gmail.com`
 
 ---
 
