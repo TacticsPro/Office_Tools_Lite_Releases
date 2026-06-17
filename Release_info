@@ -1,11 +1,11 @@
 {
   "min_version": "8.0.0.0",
-  "lite_latest_version": "8.5.2.1",
-  "lite_release_notes": "Dynamic header for Excel and XML convertor and Data validation for XMl. \nAdded 0% Room Rent. Fixed Custom xml Tutorial.Introduced Isinvoice method for voucher xml (26-05-2026)",
+  "lite_latest_version": "8.5.2.2",
+  "lite_release_notes": "Now only when actual diff found Diff Sheet created, Added Help sheet for Pepper Sales & Purchase,\nFixed Selected file name for GSTR-1 & 9, Fixed Special rate taxable not writing to xml (17-06-2026)",
 
-  "lite_msix_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/download/Office_Tools_Lite_v_8.5.2.1/Office_Tools_Lite_8.5.2.1_x64.msix",
-  "lite_msix_sha256": "63fb4871f510cdabe286ed530f00dd5c86bbe6aa9132f826b7f9476f0c1e8f17",
+  "lite_msix_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/download/Office_Tools_Lite_v_8.5.2.2/Office_Tools_Lite_8.5.2.2_x64.msix",
+  "lite_msix_sha256": "13494de44d00b507b3244da45ae924c4f10bfb86ccac31891781593bbba5eb09",
 
-  "lite_msi_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/download/Office_Tools_Lite_v_8.5.2.1/Office_Tools_Lite_8.5.2.1_x64.msi",
-  "lite_msi_sha256": "fc824d09fc49bc78c289307d3aa2adf58ef7a8d5a56c9b4aca212b5983f340d8"
+  "lite_msi_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/download/Office_Tools_Lite_v_8.5.2.2/Office_Tools_Lite_8.5.2.2_x64.msi",
+  "lite_msi_sha256": "60bfe4d946a71b8cf9161723b00ad26ddb34395afe217ae4497eecbab70fd6a2"
 }
