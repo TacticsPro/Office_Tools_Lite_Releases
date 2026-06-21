@@ -1,11 +1,9 @@
 {
   "min_version": "8.0.0.0",
   "lite_latest_version": "8.5.2.2",
-  "lite_release_notes": "Now only when actual diff found Diff Sheet created, Added Help sheet for Pepper Sales & Purchase,\nFixed Selected file name for GSTR-1 & 9, Fixed Special rate taxable not writing to xml (17-06-2026)",
-
+  "lite_release_notes": "Added Action ",
   "lite_msix_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/download/Office_Tools_Lite_v_8.5.2.2/Office_Tools_Lite_8.5.2.2_x64.msix",
   "lite_msix_sha256": "13494de44d00b507b3244da45ae924c4f10bfb86ccac31891781593bbba5eb09",
-
-  "lite_msi_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/download/Office_Tools_Lite_v_8.5.2.2/Office_Tools_Lite_8.5.2.2_x64.msi",
-  "lite_msi_sha256": "60bfe4d946a71b8cf9161723b00ad26ddb34395afe217ae4497eecbab70fd6a2"
+  "lite_msi_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest/download/Office_Tools_Lite_8.5.2.2_x64.msi",
+  "lite_msi_sha256": "89eb55ca7315f885173a7ff4ae7a97028ce8bfb6561276ef588e0621c779dc6a"
 }
