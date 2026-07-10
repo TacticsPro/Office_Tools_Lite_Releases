@@ -4,6 +4,6 @@
   "lite_release_notes": "Bug fixes and improvements",
   "lite_msix_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest/download/Office_Tools_Lite_MSIX_8.5.2.3_x64.msix",
   "lite_msix_sha256": "df3e9be34f3c94e414a44aa14868354007d7def367da6f7407e49181f8b5c8a9",
-  "lite_msi_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest/download/Office_Tools_Lite_MSIX_8.5.2.3_x64.msi",
+  "lite_msi_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest/download/Office_Tools_Lite_MSI_8.5.2.3_x64.msi",
   "lite_msi_sha256": "0675ceaf231f778ab3fbf976d177c523e0bccca65bfbb5ce1c0ac4aa6abb15b7"
 }
