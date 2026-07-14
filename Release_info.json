@@ -1,9 +1,9 @@
 {
   "min_version": "8.0.0.0",
-  "lite_latest_version": "8.5.2.3",
-  "lite_release_notes": "Bug fixes and Improvements ",
-  "lite_msix_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest/download/Office_Tools_Lite_8.5.2.3_x64.msix",
-  "lite_msix_sha256": "a9073121ca1de2dbc08331184446fdd28b29c17a3c724d6573bd1cc3d0fdd85a",
-  "lite_msi_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest/download/Office_Tools_Lite_8.5.2.3_x64.msi",
-  "lite_msi_sha256": "af51a320e9ff72450ccf361664ce8c9ec8afc28eb803cf21848af69de46ec0e3"
+  "lite_latest_version": "8.5.3.0",
+  "lite_release_notes": "Fixed app crashing at new activation ",
+  "lite_msix_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest/download/Office_Tools_Lite_8.5.3.0_x64.msix",
+  "lite_msix_sha256": "f22de645f4cbcc7ae33f3130e4ee87d76e9a0d128fadaee8e906fe0b1907e904",
+  "lite_msi_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest/download/Office_Tools_Lite_8.5.3.0_x64.msi",
+  "lite_msi_sha256": "a1469a6d17066134ca8f321bc51f16581618dc2aadde6602c6168f10779b6b95"
 }
