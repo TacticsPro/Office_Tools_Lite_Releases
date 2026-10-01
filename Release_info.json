@@ -1,9 +1,9 @@
 {
   "min_version": "8.5.3.0",
-  "lite_latest_version": "8.5.3.0",
-  "lite_release_notes": "Fixed app crashing at new activation ",
-  "lite_msix_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest/download/Office_Tools_Lite_8.5.3.0_x64.msix",
-  "lite_msix_sha256": "f22de645f4cbcc7ae33f3130e4ee87d76e9a0d128fadaee8e906fe0b1907e904",
-  "lite_msi_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest/download/Office_Tools_Lite_8.5.3.0_x64.msi",
-  "lite_msi_sha256": "a1469a6d17066134ca8f321bc51f16581618dc2aadde6602c6168f10779b6b95"
+  "lite_latest_version": "8.5.4.0",
+  "lite_release_notes": "Removed Xlookup for Sales Improved UI & Layout Added new GSTR-2B Summary Generation ",
+  "lite_msix_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest/download/Office_Tools_Lite_8.5.4.0_x64.msix",
+  "lite_msix_sha256": "370bd51d9d2f1f8ad62db7acd9b1ab2f5a7606aec1e1377971d5a79ad9b2df7d",
+  "lite_msi_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest/download/Office_Tools_Lite_8.5.4.0_x64.msi",
+  "lite_msi_sha256": "d19c498554188165404c5cf364a55e1d01a53bcdac83e256e4b3b8721861dd93"
 }
