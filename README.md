@@ -134,7 +134,13 @@ For support, feedback, or upgrade inquiries:
 📩 `tacticsprogit@gmail.com`
 
 ---
+## 🔗 Useful Links
 
+- [Ultimate All Releases](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases)  
+- [Lite All Releases](https://github.com/TacticsPro/Office_Tools_Lite_Releases)  
+- [Documentation](https://tacticspro.github.io/Office_Tools_Tutorials/)  
+
+---
 ## ⚠️ Disclaimer
 
 This project is **not affiliated with Tally Solutions Pvt. Ltd.**  
