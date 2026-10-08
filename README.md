@@ -10,12 +10,16 @@ We provide **regular updates, bug fixes, and limited new features** for the Lite
 - **Core Logic & Architecture:** TacticsPro  
 - **Application Design & Workflow:** TacticsPro  
 - **Code Assistance & Research:** ChatGPT (latest), Claude-Sonnet (Latest), Grok (latest), Bing AI (latest)
-- **Error Correction & Bug Fixing:** TacticsPro with AI-assisted review  
-🔹 **Full Version (Ultimate):**  
+- **Error Correction & Bug Fixing:** TacticsPro with AI-assisted review
+- 
+🔹 **Ultimate Version:** Latest Releases 
 👉 [Office Tools Ultimate Releases](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases)
 
 🔹 **Step-by-Step User Guide:**  
 👉 [Installation & Usage Guide](https://tacticspro.github.io/Office_Tools_Tutorials/)
+
+🔹 **Lite Version:**  Latest Releases 
+👉 [Office Tools Lite Releases](https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases)
 
 ---
 
