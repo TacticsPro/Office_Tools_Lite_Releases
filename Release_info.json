@@ -1,9 +1,9 @@
 {
   "min_version": "8.5.3.0",
-  "lite_latest_version": "8.5.4.0",
-  "lite_release_notes": "Removed Xlookup for Sales Improved UI & Layout Added new GSTR-2B Summary Generation ",
-  "lite_msix_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest/download/Office_Tools_Lite_8.5.4.0_x64.msix",
-  "lite_msix_sha256": "370bd51d9d2f1f8ad62db7acd9b1ab2f5a7606aec1e1377971d5a79ad9b2df7d",
-  "lite_msi_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest/download/Office_Tools_Lite_8.5.4.0_x64.msi",
-  "lite_msi_sha256": "d19c498554188165404c5cf364a55e1d01a53bcdac83e256e4b3b8721861dd93"
+  "lite_latest_version": "8.5.4.2",
+  "lite_release_notes": "Bug fixes related to update check (08-10-2026) ",
+  "lite_msix_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest/download/Office_Tools_Lite_8.5.4.2_x64.msix",
+  "lite_msix_sha256": "bc0843395f5a1928b2b0756e0412d58214887ac9edcecb6f12e6edc316d52eaf",
+  "lite_msi_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest/download/Office_Tools_Lite_8.5.4.2_x64.msi",
+  "lite_msi_sha256": "a1cb3ac5ae247f16802dfb42fac7e7fb22f3b44df9245bfaf460a9ead74109f3"
 }
