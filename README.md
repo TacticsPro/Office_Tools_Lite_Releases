@@ -13,13 +13,13 @@ We provide **regular updates, bug fixes, and limited new features** for the Lite
 - **Error Correction & Bug Fixing:** TacticsPro with AI-assisted review
 - 
 🔹 **Ultimate Version:** Latest Releases  
-👉 [Office Tools Ultimate Releases](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases)
+👉 [Office Tools Ultimate Releases](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/latest)
 
 🔹 **Step-by-Step User Guide:**  
 👉 [Installation & Usage Guide](https://tacticspro.github.io/Office_Tools_Tutorials/)
 
 🔹 **Lite Version:**  Latest Releases  
-👉 [Office Tools Lite Releases](https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases)
+👉 [Office Tools Lite Releases](https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest)
 
 ---
 
@@ -91,7 +91,7 @@ The application helps streamline **data cleanup, basic conversion, and reporting
 ![Cert3](https://github.com/user-attachments/assets/ba0976b8-383b-4ffd-9570-91ed27c3415b)  
 
 1. Download the Lite release from:  
-   👉 https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases
+   👉 https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/latest
 2. Download the certificate file:  
    `Office_Tools_X_X_X_X_x64_Debug.cer`
 3. Install the certificate under:  
